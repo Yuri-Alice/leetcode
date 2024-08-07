@@ -1,0 +1,15 @@
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/bin/Debug/net8.0/leetcode-1
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/bin/Debug/net8.0/leetcode-1.deps.json
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/bin/Debug/net8.0/leetcode-1.runtimeconfig.json
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/bin/Debug/net8.0/leetcode-1.dll
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/bin/Debug/net8.0/leetcode-1.pdb
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.AssemblyInfoInputs.cache
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.AssemblyInfo.cs
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.csproj.CoreCompileInputs.cache
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.sourcelink.json
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.dll
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/refint/leetcode-1.dll
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.pdb
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/leetcode-1.genruntimeconfig.cache
+/Users/ilias/Library/Mobile Documents/com~apple~CloudDocs/GitHub/leetcode/leetcode/leetcode-1/obj/Debug/net8.0/ref/leetcode-1.dll
